@@ -20,17 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eba14b29-1e80-4048-b64d-65b4b137a822" name="Default Changelist" comment="initial commit, start game">
-      <change afterPath="$PROJECT_DIR$/img/hang0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/hang1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/hang2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/hang3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/hang4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/hang5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/hang6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/hangman.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hangman.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/hangman6.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +52,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../bank/Main.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="hangman" />
@@ -87,6 +83,9 @@
       <module name="hangman" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -157,6 +156,22 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1595436724513" />
+    <state width="1825" height="275" key="GridCell.Tab.0.bottom" timestamp="1595523725291">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1825" height="275" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1595523725291" />
+    <state width="1825" height="275" key="GridCell.Tab.0.center" timestamp="1595523725289">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1825" height="275" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1595523725289" />
+    <state width="1825" height="275" key="GridCell.Tab.0.left" timestamp="1595523725288">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1825" height="275" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1595523725288" />
+    <state width="1825" height="275" key="GridCell.Tab.0.right" timestamp="1595523725290">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1825" height="275" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1595523725290" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1595433096887">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
