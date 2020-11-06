@@ -9,9 +9,11 @@ A simple hangman game written in Python and pygame.
 Quickstart
 ----------
 
-Installing Hangmann is simple with `pip
-<https://pypi.python.org/pypi/pip>`_::
+Installing Hangmann is simple with pip
+```
+<https://pypi.python.org/pypi/pip>
 
-  $ python3 -m pip install pygame
+$ python3 -m pip install pygame
+  ```
   
 And RUN!
